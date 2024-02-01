@@ -12,4 +12,6 @@ Este repositório é referente ao término do projeto de desenvolvimento de um j
 
 ►Além de cumprir com a tarefa, foi alterado o padrão de cores e remoção do background do .container para melhor distribuição de cores. Também foi alterado a cor do título.
 
+<a href="https://vcforjaz.github.io/Meus-Projetos/memoria.html">Clique aqui para visualizar o projeto no navegador</a>
+
 ![image](https://github.com/Vcforjaz/Meus-Projetos/blob/main/memoria.PNG?raw=true)
